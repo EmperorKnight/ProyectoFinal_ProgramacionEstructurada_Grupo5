@@ -517,3 +517,4 @@ class Program
         lista.Add(nodo.Dato);
         ObtenerListaStatic(nodo.Der, lista);
     }
+}
