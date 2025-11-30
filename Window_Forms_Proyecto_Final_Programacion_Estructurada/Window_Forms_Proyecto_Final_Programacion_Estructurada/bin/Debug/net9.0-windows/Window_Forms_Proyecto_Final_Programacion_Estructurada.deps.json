@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Window_Forms_Proyecto_Final_Programacion_Estructurada/1.0.0": {
+        "runtime": {
+          "Window_Forms_Proyecto_Final_Programacion_Estructurada.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Window_Forms_Proyecto_Final_Programacion_Estructurada/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
